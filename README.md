@@ -26,3 +26,4 @@ Please complete the following as soon as possible.
 # Contributors
 
 * Trey Watford
+* Will Dixon
